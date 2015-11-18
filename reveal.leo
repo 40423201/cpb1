@@ -36,11 +36,35 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20151118193411.1" a="E"><vh>@path pelican\content</vh>
+<v t="leo.20151118193411.2"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151118193411.3"><vh>以下為 reveal 投影片</vh></v>
+<v t="leo.20151118193534.1"><vh>@edit 40423201_cp_w1_p.html</vh></v>
+<v t="leo.20151118193539.1"><vh>@edit 40423201_cp_w2_p.html</vh></v>
+<v t="leo.20151118193545.1"><vh>@edit 40423201_cp_w3_p.html</vh></v>
+<v t="leo.20151118193550.1"><vh>@edit 40423201_cp_w4_p.html</vh></v>
+<v t="leo.20151118193557.1"><vh>@edit 40423201_cp_w5_p.html</vh></v>
+<v t="leo.20151118193606.1"><vh>@edit 40423201_cp_w6_p.html</vh></v>
+<v t="leo.20151118193611.1"><vh>@edit 40423201_cp_w7_p.html</vh></v>
+<v t="leo.20151118193625.1"><vh>@edit 40423201_cp_w8_p.html</vh></v>
+<v t="leo.20151118193632.1"><vh>@edit 40423201_cp_w9_p.html</vh></v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="leo.20151118193319.1" a="E"><vh>@path pelican</vh>
+<v t="leo.20151118193319.2"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151118193319.12"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20151118193319.13" a="E"><vh>@path content</vh>
+<v t="leo.20151118193319.14"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20151118193319.15"><vh>@edit 40423201_cp_w1.md</vh></v>
+<v t="leo.20151118193319.16"><vh>@edit 40423201_cp_w2.md</vh></v>
+<v t="leo.20151118193319.17"><vh>@edit 40423201_cp_w3.md</vh></v>
+<v t="leo.20151118193319.18"><vh>@edit 40423201_cp_w4.md</vh></v>
+<v t="leo.20151118193319.19"><vh>@edit 40423201_cp_w5.md</vh></v>
+<v t="leo.20151118193319.21"><vh>@edit 40423201_cp_w6.md</vh></v>
+<v t="leo.20151118193940.1"><vh>@edit 40423201_cp_w7.md</vh></v>
+<v t="leo.20151118193319.22"><vh>@edit 40423201_cp_w8.md</vh></v>
+<v t="leo.20151118193319.23"><vh>@edit 40423201_cp_w9.md</vh></v>
+</v>
+</v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
@@ -2135,8 +2159,6 @@ ip.config.ProfileDir </t>
 <t tx="amd.20150919112710.1"></t>
 <t tx="amd.20150919113340.1"></t>
 <t tx="amd.20150919113957.1"></t>
-<t tx="amd.20150919114010.1"></t>
-<t tx="amd.20150919120205.1"></t>
 <t tx="amd.20150919124128.1">@language python
 import os
 os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3
@@ -2237,5 +2259,12 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151118193319.1"></t>
+<t tx="leo.20151118193319.13"></t>
+<t tx="leo.20151118193319.14"></t>
+<t tx="leo.20151118193319.2"></t>
+<t tx="leo.20151118193411.1"></t>
+<t tx="leo.20151118193411.2"></t>
+<t tx="leo.20151118193411.3"></t>
 </tnodes>
 </leo_file>
