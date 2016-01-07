@@ -1,16 +1,17 @@
-Title: 2015 計算機程式 Jupyter
-Date: 2015-09-19 21:41
+Title: 2015 計算機程式 作業ㄧ
+Date: 2015-9/18 10:41
 Category: Python
-Tags: Jupyter, IPython
-Slug: 2015cp_note1
-Authors: coursemdetw
-Summary: 導入 notebook 內容
+Tags: pelican, publishing
+Slug: 40423201_cp_w1
+Authors: 40423201
+Summary: 作業ㄧ摘要
 
-以下為 Jupyter notebook 檔案內容:
+以下為作業ㄧ內容
 
-{% notebook brython_ex1.ipynb %}
+利用 iframe 嵌入投影片:
 
-{% notebook demo.ipynb %}
+<iframe src="40423201_cp_w1_p.html" width="500" height="300"></iframe>
 
+[作業四投影片](40423201_cp_w1_p.html){:target="_blank"}
 
 
