@@ -36,6 +36,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
+<v t="leo.20160107232428.1"><vh>@button user pelican</vh></v>
 <v t="leo.20151118193411.1" a="E"><vh>@path pelican\content</vh>
 <v t="leo.20151118193411.2"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151118193411.3"><vh>以下為 reveal 投影片</vh></v>
@@ -56,7 +57,7 @@
 <v t="leo.20151118195747.3"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151118195747.4" a="E"><vh>@path content</vh>
 <v t="leo.20151118195747.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151118195747.6"><vh>@edit 40423201_cp_w1.md</vh></v>
+<v t="leo.20160107232723.1"><vh>@edit 40423201_cp_w1.md</vh></v>
 <v t="leo.20151118195747.7"><vh>@edit 40423201_cp_w2.md</vh></v>
 <v t="leo.20151118195747.8"><vh>@edit 40423201_cp_w3.md</vh></v>
 <v t="leo.20151118195747.9"><vh>@edit 40423201_cp_w4.md</vh></v>
@@ -2356,22 +2357,6 @@ Summary: 作業九摘要
 <t tx="leo.20151118195747.2"></t>
 <t tx="leo.20151118195747.4"></t>
 <t tx="leo.20151118195747.5"></t>
-<t tx="leo.20151118195747.6">@language md
-Title: 2015 計算機程式 作業ㄧ
-Date: 2015-9/18 10:41
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w1
-Authors: 40423201
-Summary: 作業ㄧ摘要
-
-以下為作業ㄧ內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業四投影片](40423201_cp_w1_p.html){:target="_blank"}</t>
 <t tx="leo.20151118195747.7">@language md
 Title: 2015 計算機程式 作業二
 Date: 2015-9/25 2:36
@@ -2474,5 +2459,25 @@ Summary: 作業十二摘要
 [作業投影片](40423201_cp_w13_p.html){:target="_blank"}
 
 &lt;iframe src="https://player.vimeo.com/video/145030495" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/145030495"&gt;第九週計算機程式影片操作bandicam 2015-11-08 15-27-55-057&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20160107232428.1">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
+g.es("user pelican 執行完畢")</t>
+<t tx="leo.20160107232723.1">@language md
+Title: 2015 計算機程式 作業ㄧ
+Date: 2015-9/18 10:41
+Category: Python
+Tags: pelican, publishing
+Slug: 40423201_cp_w1
+Authors: 40423201
+Summary: 作業ㄧ摘要
+
+以下為作業ㄧ內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40423201_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業四投影片](40423201_cp_w1_p.html){:target="_blank"}</t>
 </tnodes>
 </leo_file>
