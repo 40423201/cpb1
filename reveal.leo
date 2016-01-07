@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1"><vh>專案說明</vh>
@@ -34,41 +34,61 @@
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
 </v>
-<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
-<v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
+<v t="leo.20160107234710.1"><vh>以下為 pelican 文章</vh>
+<v t="leo.20160107234710.2"><vh>@button admin pelican</vh></v>
+<v t="leo.20160107234710.3"><vh>@button user pelican</vh></v>
+<v t="leo.20160107234710.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20160107234710.5"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160107234710.6" a="E"><vh>@path content</vh>
+<v t="leo.20160107234710.7"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20160107234710.8"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo.20160107234710.9"><vh>@edit 2015cpnote7.md</vh></v>
+<v t="leo.20160107234710.10"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160107234508.1"><vh>@path pelican</vh>
+<v t="leo.20160107234508.2"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160107234508.3" a="E"><vh>@path content</vh>
+<v t="leo.20160107234508.4"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20160107234508.5"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo.20160107234508.6"><vh>@edit 2015cpnote7.md</vh></v>
+<v t="leo.20160107234508.7"><vh>@edit 2015cpnote1.md</vh></v>
+</v>
+</v>
+<v t="leo.20160107234159.1"><vh>@button admin pelican</vh></v>
 <v t="leo.20160107232428.1"><vh>@button user pelican</vh></v>
-<v t="leo.20151118193411.1" a="E"><vh>@path pelican\content</vh>
-<v t="leo.20151118193411.2"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151118193411.3"><vh>以下為 reveal 投影片</vh></v>
-<v t="leo.20151118193534.1"><vh>@edit 40423201_cp_w1_p.html</vh></v>
-<v t="leo.20151118193539.1"><vh>@edit 40423201_cp_w2_p.html</vh></v>
-<v t="leo.20151118193545.1"><vh>@edit 40423201_cp_w3_p.html</vh></v>
-<v t="leo.20151118193550.1"><vh>@edit 40423201_cp_w4_p.html</vh></v>
-<v t="leo.20151118193557.1"><vh>@edit 40423201_cp_w5_p.html</vh></v>
-<v t="leo.20151118193606.1"><vh>@edit 40423201_cp_w6_p.html</vh></v>
-<v t="leo.20151118193611.1"><vh>@edit 40423201_cp_w7_p.html</vh></v>
-<v t="leo.20151118193625.1"><vh>@edit 40423201_cp_w8_p.html</vh></v>
-<v t="leo.20151118193632.1"><vh>@edit 40423201_cp_w9_p.html</vh></v>
-<v t="leo.20160107230008.1"><vh>@edit 40423201_cp_w11_p.html</vh></v>
-<v t="leo.20160107230035.1"><vh>@edit 40423201_cp_w12_p.html</vh></v>
-<v t="leo.20160107230041.1"><vh>@edit 40423201_cp_w13_p.html</vh></v>
-<v t="leo.20151118195747.1" a="E"><vh>@path pelican</vh>
-<v t="leo.20151118195747.2"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151118195747.3"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151118195747.4" a="E"><vh>@path content</vh>
-<v t="leo.20151118195747.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20160107232723.1"><vh>@edit 40423201_cp_w1.md</vh></v>
-<v t="leo.20151118195747.7"><vh>@edit 40423201_cp_w2.md</vh></v>
-<v t="leo.20151118195747.8"><vh>@edit 40423201_cp_w3.md</vh></v>
-<v t="leo.20151118195747.9"><vh>@edit 40423201_cp_w4.md</vh></v>
-<v t="leo.20151118195747.10"><vh>@edit 40423201_cp_w5.md</vh></v>
-<v t="leo.20151118195747.11"><vh>@edit 40423201_cp_w6.md</vh></v>
-<v t="leo.20151118195747.12"><vh>@edit 40423201_cp_w7.md</vh></v>
-<v t="leo.20151118195747.13"><vh>@edit 40423201_cp_w8.md</vh></v>
-<v t="leo.20151118195747.14"><vh>@edit 40423201_cp_w9.md</vh></v>
-<v t="leo.20160107214029.1"><vh>@edit 40423201_cp_w11.md</vh></v>
-<v t="leo.20160107214031.1"><vh>@edit 40423201_cp_w12.md</vh></v>
-<v t="leo.20160107214033.1"><vh>@edit 40423201_cp_w13.md</vh></v>
+<v t="leo.20160107234408.1"><vh>@path ./</vh>
+<v t="leo.20160107234408.2"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20160107234408.3"><vh>@edit 40423201_cp_w1_p.html</vh></v>
+<v t="leo.20160107234408.4"><vh>@edit 40423201_cp_w2_p.html</vh></v>
+<v t="leo.20160107234408.5"><vh>@edit 40423201_cp_w3_p.html</vh></v>
+<v t="leo.20160107234408.6"><vh>@edit 40423201_cp_w4_p.html</vh></v>
+<v t="leo.20160107234408.7"><vh>@edit 40423201_cp_w5_p.html</vh></v>
+<v t="leo.20160107234408.8"><vh>@edit 40423201_cp_w6_p.html</vh></v>
+<v t="leo.20160107234408.9"><vh>@edit 40423201_cp_w7_p.html</vh></v>
+<v t="leo.20160107234408.10"><vh>@edit 40423201_cp_w8_p.html</vh></v>
+<v t="leo.20160107234408.11"><vh>@edit 40423201_cp_w9_p.html</vh></v>
+<v t="leo.20160107234408.12"><vh>@edit 40423201_cp_w11_p.html</vh></v>
+<v t="leo.20160107234408.13"><vh>@edit 40423201_cp_w12_p.html</vh></v>
+<v t="leo.20160107234408.14"><vh>@edit 40423201_cp_w13_p.html</vh></v>
+<v t="leo.20160107234408.15" a="E"><vh>@path pelican</vh>
+<v t="leo.20160107234408.16"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20160107234408.17"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160107234408.18" a="E"><vh>@path content</vh>
+<v t="leo.20160107234408.19"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160107234408.20"><vh>@edit 40423201_cp_w1.md</vh></v>
+<v t="leo.20160107234408.21"><vh>@edit 40423201_cp_w2.md</vh></v>
+<v t="leo.20160107234408.22"><vh>@edit 40423201_cp_w3.md</vh></v>
+<v t="leo.20160107234408.23"><vh>@edit 40423201_cp_w4.md</vh></v>
+<v t="leo.20160107234408.24"><vh>@edit 40423201_cp_w5.md</vh></v>
+<v t="leo.20160107234408.25"><vh>@edit 40423201_cp_w6.md</vh></v>
+<v t="leo.20160107234408.26"><vh>@edit 40423201_cp_w7.md</vh></v>
+<v t="leo.20160107234408.27"><vh>@edit 40423201_cp_w8.md</vh></v>
+<v t="leo.20160107234408.28"><vh>@edit 40423201_cp_w9.md</vh></v>
+<v t="leo.20160107234408.29"><vh>@edit 40423201_cp_w11.md</vh></v>
+<v t="leo.20160107234408.30"><vh>@edit 40423201_cp_w12.md</vh></v>
+<v t="leo.20160107234408.31"><vh>@edit 40423201_cp_w13.md</vh></v>
 </v>
 </v>
 </v>
@@ -2165,12 +2185,6 @@ ip.config.ProfileDir </t>
 <t tx="amd.20150919112415.1">使用 Vimeo</t>
 <t tx="amd.20150919112710.1"></t>
 <t tx="amd.20150919113340.1"></t>
-<t tx="amd.20150919113957.1"></t>
-<t tx="amd.20150919124128.1">@language python
-import os
-os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3
-''')
-g.es("pelican 執行完畢")</t>
 <t tx="amd.20150920030003.1">必須使用 IPython 3.2.1
 
 sudo pip3 install IPython[notebook]==3.2.1
@@ -2266,218 +2280,32 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151118193411.1"></t>
-<t tx="leo.20151118193411.2"></t>
-<t tx="leo.20151118193411.3"></t>
-<t tx="leo.20151118195747.1"></t>
-<t tx="leo.20151118195747.10">@language md
-Title: 2015 計算機程式 作業五
-Date: 2015-10/16 2:36
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w5
-Authors: 40423201
-Summary: 作業五摘要
-
-以下為作業五內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w5_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業投影片](40423201_cp_w5_p.html){:target="_blank"}</t>
-<t tx="leo.20151118195747.11">@language md
-Title: 2015 計算機程式 作業六
-Date: 2015-10/23 2:36
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w6
-Authors: 40423201
-Summary: 作業六摘要
-
-以下為作業六內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w6_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業投影片](40423201_cp_w6_p.html){:target="_blank"}
-
-&lt;iframe src="https://player.vimeo.com/video/144981300" width="500" height="294" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144981300"&gt;第六週計算機程式操作bandicam 2015-11-07 23-21-47-182&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
-<t tx="leo.20151118195747.12">@language md
-Title: 2015 計算機程式 作業七
-Date: 2015-11/06 12:30
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w7
-Authors: 40423201
-Summary: 作業七摘要
-
-以下為作業七內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w7_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業投影片](40423201_cp_w7_p.html){:target="_blank"}</t>
-<t tx="leo.20151118195747.13">@language md
-Title: 2015 計算機程式 作業八
-Date: 2015-11/06 2:36
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w8
-Authors: 40423201
-Summary: 作業八摘要
-
-以下為作業八內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w8_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業投影片](40423201_cp_w8_p.html){:target="_blank"}</t>
-<t tx="leo.20151118195747.14">@language md
-Title: 2015 計算機程式 作業九
-Date: 2015-11/8 2:36
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w9
-Authors: 40423201
-Summary: 作業九摘要
-
-以下為作業九內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w9_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業投影片](40423201_cp_w9_p.html){:target="_blank"}
-
-&lt;iframe src="https://player.vimeo.com/video/145030495" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/145030495"&gt;第九週計算機程式影片操作bandicam 2015-11-08 15-27-55-057&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
-<t tx="leo.20151118195747.2"></t>
-<t tx="leo.20151118195747.4"></t>
-<t tx="leo.20151118195747.5"></t>
-<t tx="leo.20151118195747.7">@language md
-Title: 2015 計算機程式 作業二
-Date: 2015-9/25 2:36
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w2
-Authors: 40423201
-Summary: 作業二摘要
-
-以下為作業二內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w2_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業投影片](40423201_cp_w2_p.html){:target="_blank"}</t>
-<t tx="leo.20151118195747.8">@language md
-Title: 2015 計算機程式 作業三
-Date: 2015-10/2 2:36
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w3
-Authors: 40423201
-Summary: 作業三摘要
-
-以下為作業三內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w3_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業投影片](40423201_cp_w3_p.html){:target="_blank"}</t>
-<t tx="leo.20151118195747.9">@language md
-Title: 2015 計算機程式 作業四
-Date: 2015-10/9 2:36
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w4
-Authors: 40423201
-Summary: 作業四摘要
-
-以下為作業四內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w4_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業投影片](40423201_cp_w4_p.html){:target="_blank"}</t>
-<t tx="leo.20160107214029.1">@language md
-Title: 2015 計算機程式 作業十
-Date: 2015-11/27 2:36
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w11
-Authors: 40423201
-Summary: 作業十摘要
-
-以下為作業十內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w11_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業投影片](40423201_cp_w11_p.html){:target="_blank"}
-
-&lt;iframe src="https://player.vimeo.com/video/151010897" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/151010897"&gt;ˋ&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
-<t tx="leo.20160107214031.1">@language md
-Title: 2015 計算機程式 作業十一
-Date: 2015-12/4 2:36
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w12
-Authors: 40423201
-Summary: 作業十一摘要
-
-以下為作業十一內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w12_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業投影片](40423201_cp_w12_p.html){:target="_blank"}
-
-&lt;iframe src="https://player.vimeo.com/video/151012941" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/151012941"&gt;ˋ&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
-<t tx="leo.20160107214033.1">@language md
-Title: 2015 計算機程式 作業十二
-Date: 2015-12/11 2:36
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w13
-Authors: 40423201
-Summary: 作業十二摘要
-
-以下為作業十二內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w13_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業投影片](40423201_cp_w13_p.html){:target="_blank"}
-
-&lt;iframe src="https://player.vimeo.com/video/145030495" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/145030495"&gt;第九週計算機程式影片操作bandicam 2015-11-08 15-27-55-057&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20160107232428.1">@language python
 import os
 os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
 g.es("user pelican 執行完畢")</t>
-<t tx="leo.20160107232723.1">@language md
-Title: 2015 計算機程式 作業ㄧ
-Date: 2015-9/18 10:41
-Category: Python
-Tags: pelican, publishing
-Slug: 40423201_cp_w1
-Authors: 40423201
-Summary: 作業ㄧ摘要
-
-以下為作業ㄧ內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423201_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業四投影片](40423201_cp_w1_p.html){:target="_blank"}</t>
+<t tx="leo.20160107234159.1">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
+g.es("admin pelican 執行完畢")</t>
+<t tx="leo.20160107234408.1"></t>
+<t tx="leo.20160107234408.15"></t>
+<t tx="leo.20160107234408.16"></t>
+<t tx="leo.20160107234408.18"></t>
+<t tx="leo.20160107234408.19"></t>
+<t tx="leo.20160107234408.2"></t>
+<t tx="leo.20160107234508.1"></t>
+<t tx="leo.20160107234508.3"></t>
+<t tx="leo.20160107234710.1"></t>
+<t tx="leo.20160107234710.2">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
+g.es("admin pelican 執行完畢")</t>
+<t tx="leo.20160107234710.3">@language python
+import os
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
+g.es("user pelican 執行完畢")</t>
+<t tx="leo.20160107234710.4"></t>
+<t tx="leo.20160107234710.6"></t>
 </tnodes>
 </leo_file>
